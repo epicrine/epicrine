@@ -1,29 +1,42 @@
-# Hi there 👋
+# Hey there! I'm Sivan 👋
 
-<!--
-**SivanJadhav/SivanJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
-<hr>
-- 🔭 I’m currently working on improving my life and learning skills. One of them is Computer Science.
-<hr>
-- 🌱 I’m currently learning Rust (after suffering in C to appreciate Rust). I plan to go low-level to do something in Embedded Engineering and system-level things.
-<br>
-<hr>
-- 👯 I want to collaborate on beginner-friendly projects in C or Rust.
-<br>
-<hr>
-- 🤔 I’m looking for help with nothing currently.
-<br>
-<hr>
-- 💬 Ask me about anything you wish.
-<br>
-<hr>
-- 📫 How to reach me: <a mailto href="sivanjaadhav+github@gmail.com">G-Mail</a>
-<br>
-<hr>
-- 🗿 Pronouns: He, Him, and His
-<br>
-<hr>
-- ⚡ Fun fact: I am learning this from <a href="https://cs50.harvard.edu/">Harvard's CS50's Course's</a>.
-<br>
-<hr>
+## 🚀 Currently On A Mission
+Pursuing **USACO Silver** while balancing JEE preparation | Target: November 2025
+
+## 🏆 Journey Highlights
+- **CS50x Graduate** - Harvard's Introduction to Computer Science
+- **Competitive Programming** - Actively solving algorithmic challenges
+- **Multi-language Explorer** - C++, Rust, Python, Go experience
+
+## 📊 Competitive Programming Stats
+<!-- Will be updated as you progress -->
+- **Codeforces**: (No Contest given yet) | 50+ Problems solved.
+- **AtCoder**: (No Contest given yet) | 2 Problems Solved.
+- **USACO**: Currently preparing for Silver
+- **Total Problems Solved**: 50+ (and counting!)
+
+## 🛠️ Tech Stack
+```cpp
+Languages: C++, Rust, Python, Go, C
+Focus Areas: Algorithms, Data Structures, System Programming
+Learning: Advanced competitive programming techniques
+```
+
+## 🎯 What I'm Working On
+- **Phase 1**: Bronze Forge - Speed & Contest Preparation
+- **Daily Practice**: Solving 2-3 algorithmic problems
+- **Contest Participation**: Regular Codeforces & AtCoder contests
+
+## 📈 2025 Goals
+- [ ] Achieve USACO Silver qualification
+- [ ] Reach 1400+ rating on Codeforces  
+- [ ] Complete 500+ algorithmic problems
+- [ ] Start building real-world Rust projects (post-Silver)
+
+## 🤝 Let's Connect!
+- **Email**: sivanjaadhav@icloud.com
+- **LinkedIn**: (Underage for it! 😆)
+- Always open to discussing algorithms, competitive programming, or tech!
+
+---
+*"From CS50x to competitive programming - building both theoretical knowledge and practical problem-solving skills, one algorithm at a time, a journey towards mastery."*
