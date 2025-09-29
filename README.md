@@ -10,7 +10,7 @@ Pursuing **USACO Silver** while balancing JEE preparation | Target: November 202
 
 ## 📊 Competitive Programming Stats
 <!-- Will be updated as you progress -->
-- **Codeforces**: (No Contest given yet) | 50+ Problems solved.
+- **Codeforces**: 633 | 50+ Problems solved.
 - **AtCoder**: (No Contest given yet) | 2 Problems Solved.
 - **USACO**: Currently preparing for Silver
 - **Total Problems Solved**: 50+ (and counting!)
