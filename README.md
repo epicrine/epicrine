@@ -4,7 +4,7 @@
 Pursuing **USACO Silver** while balancing JEE preparation | Target: November 2025
 
 ## 🏆 Journey Highlights
-- **CS50x Graduate** - Harvard's Introduction to Computer Science
+- **I took CS50x** - Harvard's Introduction to Computer Science online (OCW) version.
 - **Competitive Programming** - Actively solving algorithmic challenges
 - **Multi-language Explorer** - C++, Rust, Python, Go experience
 
